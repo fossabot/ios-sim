@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fios-sim.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fios-sim?ref=badge_shield)
+
 ios-sim
 =======
 
@@ -45,3 +47,7 @@ All rights reserved.
 This project is available under the MIT license. See [LICENSE][license].
 
 [license]: https://github.com/Fingertips/ios-sim/blob/master/LICENSE
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fios-sim.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fios-sim?ref=badge_large)
